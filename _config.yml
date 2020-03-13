@@ -20,10 +20,9 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 url: https://reverse25.github.io/jekyll-theme-textalic/
 name: reverse
-title: site title # Required: site's default title
+title: CTF SOLVING # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
+  NEVER GIVE UP
 description: "ctf explanations and solutions" # Required
 
 disqus:
