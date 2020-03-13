@@ -1,8 +1,8 @@
 # These data will be shown in /about page and every page footer
 # Replace these with your own personal info
 
-name: "YOUR NAME"
-job: "Job Title"
+name: "SAYAK MAJI"
+job: "STUDENT"
 hi: "HIYA!"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
@@ -19,7 +19,7 @@ skills:
     icon-class: "fa fa-cogs"
     list: ["Linux", "Docker", "Git", "SublimeText"]
 
-display_name: "YOUR NAME"
+display_name: "SAYAK MAJI"
 contact:
   - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
   - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
