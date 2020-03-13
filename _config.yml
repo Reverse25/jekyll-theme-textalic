@@ -19,13 +19,13 @@ layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
-url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
+url:https://reverse25.github.io/jekyll-theme-textalic/
+name: reverse # Required: will be displayed on every page's header
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - one liner one...
   - one liner two...
-description: "Some short description on your site" # Required
+description: ctf solutions and explanations # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
