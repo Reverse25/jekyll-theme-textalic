@@ -23,8 +23,8 @@ url: /jekyll-theme-textalic/
 name: reverse # Required: will be displayed on every page's header
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
+  - CTF solving
+  - and stuff
 description: ctf solutions and explanations # Required
 
 disqus:
