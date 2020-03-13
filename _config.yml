@@ -18,8 +18,7 @@ paginate_path: "page:num"
 layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
-
-url:https://reverse25.github.io/jekyll-theme-textalic/
+url: https://reverse25.github.io/jekyll-theme-textalic/
 name: reverse
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
